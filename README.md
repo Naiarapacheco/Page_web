@@ -4,7 +4,7 @@
 
 <p> Site básico com interatividade com a linguaguem Javascript. Pode ser facilmente customizado.</p>
 
-## Tecnologias
+<h4>Algumas das Tecnologias &darr;</h4>
 
 <div>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
