@@ -1,4 +1,4 @@
-<h2>Web - Qwork</h2>
+<h2>Web Site</h2>
 
 <h3>Sobre</h3>
 
