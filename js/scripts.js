@@ -1,4 +1,3 @@
-
 // Menu Mobile
 
 document.getElementById("hamburguer-icon").onclick = function () {
