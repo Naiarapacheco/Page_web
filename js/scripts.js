@@ -1,15 +1,15 @@
 // Menu Mobile
 
 document.getElementById("hamburguer-icon").onclick = function () {
-
   document.getElementById("sliding-header-menu-outer").style.right = "0";
-
 };
 
 document.getElementById("sliding-header-menu-close-button").onclick = function () {
-
   document.getElementById("sliding-header-menu-outer").style.right = "-320px";
+};
 
+document.getElementById("table").onclick = function () {
+  document.getElementById("sliding-header-menu-outer").style.right = "-320px";
 };
 
 // About us Tab
@@ -101,6 +101,3 @@ var ano_atual = new Date;
 ano_atual = ano_atual.getFullYear();
 document.getElementById("current_year").innerHTML = ano_atual;
    
-
-
-//API KEY Google: AIzaSyBXfvREmqQu2EA7RZFBLp-gjzpcuKbQvXU   
