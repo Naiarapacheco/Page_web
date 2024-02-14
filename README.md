@@ -2,15 +2,25 @@
 
 <h3>Sobre</h3>
 
-<p> Site básico com interatividade com a linguaguem Javascript. Pode ser facilmente customizado.</p>
+<p>Site básico criado para empresas, com a parte de apresentação (sobre nós), os serviços oferecidos e a forma de contato.</p>
 
-<h4>Algumas das Tecnologias &darr;</h4>
+<h4>Tecnologias &darr;</h4>
 
 <div>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Sass" height="30" width="40" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
-      
+
+## Preview
+
+<div>
+  <img loading="lazy" src="./img/image1.png" width=300>
+  </br>
+  <img loading="lazy" src="./img/image2.png" width=300>
+  </br>
+  <img loading="lazy" src="./img/image3.png" width=300>
+</div>
 
   
 

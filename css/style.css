@@ -105,7 +105,7 @@ Placeholder
 /* Fim das Variáveis */
 /* Global Header Styles ********************************************************************/
 header {
-  background-color: #2A2D34;
+  background-color: #0F0E0E;
   -webkit-box-shadow: 0px 2px 4px 1px rgba(0, 0, 0, 0.12);
   -moz-box-shadow: 0px 2px 4px 1px rgba(0, 0, 0, 0.12);
   box-shadow: 0px 2px 4px 1px rgba(0, 0, 0, 0.12);
@@ -311,7 +311,7 @@ header {
   text-align: center; }
   .servicos .service-stripe {
     padding: 60px 0;
-    background-color: #2A2D34;
+    background-color: rgb(23, 24, 27);
     color: white;
     display: inline-block;
     height: 100%;
@@ -640,7 +640,7 @@ header {
     font-family: 'Lato', sans-serif; }
   .contact-us .contact-form input[type="submit"] {
     font-weight: 700;
-    background-color: #9D9D9D;
+    background-color: #0F0E0E;
     color: #FFF;
     text-transform: uppercase;
     border: none;
@@ -694,7 +694,7 @@ header {
   .contact-us .contact-form .form-part2 {
     padding-left: 10px; } }
 footer {
-  background-color: #2A2D34;
+  background-color: #0F0E0E;
   padding-top: 30px;
   text-align: center;
   overflow-wrap: break-word; }
@@ -737,7 +737,7 @@ footer {
   display: inline-block;
   margin: auto;
   font-size: 0;
-  background-color: #2A2D34;
+  background-color: #0F0E0E;
   color: white; }
   .tab-box .box-tabs {
     text-align: left;
