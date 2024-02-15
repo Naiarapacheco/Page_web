@@ -2,7 +2,8 @@
 
 <h3>Sobre</h3>
 
-<p>Site básico criado para empresas, com a parte de apresentação (sobre nós), os serviços oferecidos e a forma de contato.</p>
+<p>Site básico criado para empresas, com a parte de apresentação, os serviços oferecidos e a forma de contato.<br>
+Uso do html, javascript e do sass com a extensão scss. </p>
 
 <h4>Tecnologias &darr;</h4>
 
