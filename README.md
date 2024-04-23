@@ -1,8 +1,4 @@
-<h2>Web Site</h2>
-
-<h3>Sobre</h3>
-
-<p>Site básico criado para empresas, com a parte de apresentação (sobre nós), os serviços oferecidos e a forma de contato.</p>
+<h1>Website</h1>
 
 <h4>Tecnologias &darr;</h4>
 <div>
